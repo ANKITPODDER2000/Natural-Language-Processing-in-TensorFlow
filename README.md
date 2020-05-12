@@ -4,9 +4,12 @@ Link - ("https://www.coursera.org/learn/natural-language-processing-tensorflow/h
 
 
 Natural Language Processing in TensorFlow
-===========================================================================================================
+**********************************************************************************************************
+**********************************************************************************************************
 by deeplearning.ai ( https://www.coursera.org/learn/natural-language-processing-tensorflow/home/welcome )
-===========================================================================================================
+**********************************************************************************************************
+**********************************************************************************************************
+
 
 
 About this Course
@@ -27,6 +30,8 @@ understanding of how neural networks work, we recommend that you take the Deep L
 
 WHAT YOU WILL LEARN
 **********************************************************************************************************
+**********************************************************************************************************
+
 Build natural language processing systems using TensorFlow
 
 Process text, including tokenization and representing sentences as vectors

@@ -10,8 +10,6 @@ by deeplearning.ai ( https://www.coursera.org/learn/natural-language-processing-
 **********************************************************************************************************
 **********************************************************************************************************
 
-
-
 About this Course
 536,928 recent views
 If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to 
